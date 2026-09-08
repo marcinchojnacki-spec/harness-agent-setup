@@ -1,0 +1,39 @@
+# Harness Delegate files
+*.jar
+*.log
+
+# Configuration files with sensitive data
+config/harness-config.local.properties
+harness-delegate.local.yaml
+
+# Environment files
+.env
+.env.local
+.env*.local
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS
+Thumbs.db
+
+# Node modules (if using Node.js)
+node_modules/
