@@ -12,7 +12,7 @@ spec:
   delegateName: "my-macos-delegate"
   
   # Account ID from Harness
-  accountId: "YOUR_ACCOUNT_ID"
+  accountId: "yeh6n9X9T2CC5aZP8Wtjqw"
   
   # Manager host - typically the Harness SaaS URL
   managerHost: "https://app.harness.io"
